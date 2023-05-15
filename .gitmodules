@@ -1,0 +1,4 @@
+[submodule "submodules_test"]
+	path = submodules_test
+	url = https://github.com/LukasGold/submodules_test.git
+	branch = main
