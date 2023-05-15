@@ -2,7 +2,7 @@ exclude: '^docs/conf.py'
 
 repos:
 - repo: C:\Users\gold\github\pre-commit-hooks
-  rev: v0.1.6
+  rev: v0.1.8
   hooks:
   - id: print-arguments
   - id: update-submodules
