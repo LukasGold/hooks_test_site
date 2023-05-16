@@ -6,7 +6,7 @@ repos:
   hooks:
   - id: print-arguments
   - id: merge-remote-submodule-updates
-#    args: [--fail-on-change]
+    args: [--fail-on-change]
 
 ## Hook(s) activated by default:
 #- repo: https://github.com/pre-commit/pre-commit-hooks
