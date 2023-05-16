@@ -2,11 +2,11 @@ exclude: '^docs/conf.py'
 
 repos:
 - repo: C:\Users\gold\github\pre-commit-hooks
-  rev: v0.1.24
+  rev: v0.1.25
   hooks:
   - id: print-arguments
   - id: merge-remote-submodule-updates
-    args: [--pass-on-change]
+#    args: [--fail-on-change]
 
 ## Hook(s) activated by default:
 #- repo: https://github.com/pre-commit/pre-commit-hooks
